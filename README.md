@@ -6,7 +6,7 @@
 
 ### Undergrad '24. IIIT Ranchi
 
-I'm currently working my way through opensource. I am keen to understand DevOps and Network Programming related things. I also like to share my understanding through my [blogs](https://dev.to/srijansriv). Check out my projects below, and stay tuned for more!
+I'm currently working my way through opensource. I am keen to understand DevOps, Network Programming and Kernel Development related things. I also like to share my understanding through my [blogs](https://dev.to/srijansriv). Check out my projects below, and stay tuned for more!
 
 ---
 
