@@ -1,6 +1,5 @@
 ## Hello! I'm Srijan Srivastava, aka SrijanSriv  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
----
 
 <img align="right" alt="GIF" height="80rem" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -8,7 +7,6 @@
 
 I'm currently working my way through opensource. I am keen to understand DevOps, Network Programming and Kernel Development related things. I also like to share my understanding through my [blogs](https://dev.to/srijansriv). Check out my projects below, and stay tuned for more!
 
----
 
 ### Languages and Tools 🛠
 
